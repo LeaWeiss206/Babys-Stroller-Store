@@ -1,4 +1,4 @@
-# ShopCart 
+# Babys-Stroller-Store 
 
 CartMart is a React-based project that simulates a shopping cart store. Users can browse through a selection of products, add items to their cart, and manage their purchases seamlessly. The project demonstrates key e-commerce functionalities, including product listing, cart management, and checkout processes.
 
