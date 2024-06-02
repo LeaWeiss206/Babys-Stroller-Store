@@ -1,3 +1,24 @@
+# CartMart
+
+CartMart is a React-based project that simulates a shopping cart store. Users can browse through a selection of products, add items to their cart, and manage their purchases seamlessly. The project demonstrates key e-commerce functionalities, including product listing, cart management, and checkout processes.
+
+## Features
+
+- **Product Listing:** Browse through a variety of products with detailed descriptions and prices.
+- **Add to Cart:** Easily add items to your shopping cart with a single click.
+- **Cart Management:** View and manage items in your cart, including updating quantities and removing products.
+- **Checkout Process:** Simulated checkout process to complete purchases.
+
+## Technology Stack
+
+- **Frontend:** React for building a dynamic and interactive user interface.
+- **Backend:** Mock server or API for handling product data and cart operations.
+
+[Live Demo](https://react-project-5nw9.onrender.com/)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
